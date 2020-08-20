@@ -15,7 +15,7 @@
         <Label Content="CSV Text" VerticalAlignment="Top" Grid.Column="1" FontSize="16" FontWeight="Bold"/>
         <TextBox x:Name="tbJSON" HorizontalAlignment="Left" Height="328" Margin="6,36,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="380"/>
         <TextBox x:Name="tbCSV" HorizontalAlignment="Left" Height="328" Margin="10,36,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="376" Grid.Column="1"/>
-        <Button x:Name="btnAction" Content="Button" HorizontalAlignment="Left" Margin="77,380,0,0" VerticalAlignment="Top" Width="203"/>
+        <Button x:Name="btnAction" Content="Convert" HorizontalAlignment="Left" Margin="77,380,0,0" VerticalAlignment="Top" Width="203"/>
 
     </Grid>
 </Window>
